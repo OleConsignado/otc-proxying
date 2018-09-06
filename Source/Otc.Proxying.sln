@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otc.Proxying", "Otc.Proxying\Otc.Proxying.csproj", "{BF9F8C59-D9DA-4AAA-97BA-E234514C698D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otc.Proxying.Tests", "Otc.Proxying.Tests\Otc.Proxying.Tests.csproj", "{0E968EA1-0435-4DF6-BF95-9D4D41E519BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9F8C59-D9DA-4AAA-97BA-E234514C698D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9F8C59-D9DA-4AAA-97BA-E234514C698D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9F8C59-D9DA-4AAA-97BA-E234514C698D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9F8C59-D9DA-4AAA-97BA-E234514C698D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E968EA1-0435-4DF6-BF95-9D4D41E519BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E968EA1-0435-4DF6-BF95-9D4D41E519BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E968EA1-0435-4DF6-BF95-9D4D41E519BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E968EA1-0435-4DF6-BF95-9D4D41E519BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C187E1-00BC-47B6-B1EC-7C977009DA28}
+	EndGlobalSection
+EndGlobal
